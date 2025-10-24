@@ -42,3 +42,15 @@ Open Proteus_Design.pdsprj in Proteus 8.
 Load the compiled .hex file generated from MPLAB X.
 
 Run the simulation — watch the LED blink every second.
+
+📸 Output
+
+LED at RB7 blinks ON (1s) → OFF (1s) continuously.
+
+🧰 Future Expansion Ideas
+
+Add multiple LEDs with different blink patterns.
+
+Use a button to control LED blinking speed.
+
+Interface with LCD to display status.
